@@ -1,0 +1,157 @@
+<div class="sti" style="display:flex;">
+        <div class="" style="flex: 33.33%;"><a href="#open-modal" > <div>
+      
+      <a href="#open-modal" >  <img id="badge" src="https://cdn.shopify.com/s/files/1/0012/6477/9327/files/fair-trade_250x.png" alt="Fair trade" class="Values__Image"></a>
+<div id="open-modal" class="modal-window">
+  <div>
+    <header>
+      <a href="#modal-close" title="Close" class="modal-close">close &times;</a>
+    <h1>Fair Trade</h1>
+    </header>
+    
+    <div>This product is made outside the United States and adheres to international Fair Trade guidelines.
+      The makers and artisans employed to make this product were paid a living wage and provided safe and healthy working conditions. 
+      Whenever possible, the materials sourced for this product were local to the region where they were manufactured and 
+      eco-friendly practices were used in the manufacturing process.</div>
+<!--     <button class="modal-close">
+              Close
+            </button> -->
+  </div>
+      </div>
+    </div></div>
+<!--    <div class="" style="flex: 33.33%;"><a href="#open-modal" >  <img id="badge" src="https://cdn.shopify.com/s/files/1/0012/6477/9327/files/fair-trade_250x.png" alt="Fair trade" class="Values__Image"></a></div> -->
+   <div class="" style="flex: 33.33%;"><a href="#open-modal" > <div>
+      
+      <a href="#open-modal" >  <img id="badge" src="https://cdn.shopify.com/s/files/1/0012/6477/9327/files/heritage_250x.png" alt="Fair trade" class="Values__Image"></a>
+<div id="open-modal" class="modal-window">
+  <div>
+    <header>
+      <a href="#modal-close" title="Close" class="modal-close">close &times;</a>
+    <h1>Heritage</h1>
+    </header>
+    
+    <div>This product features age-old techniques, traditions or art forms that are in decline or in danger of being lost forever.
+      Heritage products are curated from around the world and support artisans who are creating these traditional crafts.
+      Heritage products help to share, celebrate, and preserve an artisan's cultural heritage and centuries-old techniques
+      by sharing them with the global marketplace.</div>
+<!--     <button class="modal-close">
+              Close
+            </button> -->
+  </div>
+      </div>
+    </div></div>
+   <div class="" style="flex: 33.33%;"><a href="#open-modal" > <div>
+      
+      <a href="#open-modal" >  <img id="badge" src="https://cdn.shopify.com/s/files/1/0012/6477/9327/files/sustainable_250x.png" alt="Fair trade" class="Values__Image"></a>
+<div id="open-modal" class="modal-window">
+  <div>
+    <header>
+      <a href="#modal-close" title="Close" class="modal-close">close &times;</a>
+    <h1>Fair Trade</h1>
+    </header>
+    
+    <div>This product is made outside the United States and adheres to international Fair Trade guidelines.
+      The makers and artisans employed to make this product were paid a living wage and provided safe and healthy working conditions. 
+      Whenever possible, the materials sourced for this product were local to the region where they were manufactured and 
+      eco-friendly practices were used in the manufacturing process.</div>
+<!--     <button class="modal-close">
+              Close
+            </button> -->
+  </div>
+      </div>
+    </div></div>
+   <div class="" style="flex: 33.33%;"><a href="#open-modal" >  <div>
+      
+      <a href="#open-modal" >  <img id="badge" src="https://cdn.shopify.com/s/files/1/0012/6477/9327/files/vegan_250x.png" alt="Fair trade" class="Values__Image"></a>
+<div id="open-modal" class="modal-window">
+  <div>
+    <header>
+      <a href="#modal-close" title="Close" class="modal-close">close &times;</a>
+    <h1>Fair Trade</h1>
+    </header>
+    
+    <div>This product is made outside the United States and adheres to international Fair Trade guidelines.
+      The makers and artisans employed to make this product were paid a living wage and provided safe and healthy working conditions. 
+      Whenever possible, the materials sourced for this product were local to the region where they were manufactured and 
+      eco-friendly practices were used in the manufacturing process.</div>
+<!--     <button class="modal-close">
+              Close
+            </button> -->
+  </div>
+      </div>
+    </div></div>
+</div>
+      
+      
+  
+       
+
+
+<style>
+  
+  .sti{
+    margin-top: 20px;
+  
+  }
+.modal-window {
+  position: fixed;
+  background-color: rgba(200, 200, 200, 0.75);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  opacity: 0;
+  pointer-events: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.modal-window:target {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal-window>div {
+  width: 400px;
+  position: relative;
+  margin: 10% auto;
+  padding: 2rem;
+  background: #fff;
+  color: #444;
+}
+
+.modal-window header {
+  font-weight: bold;
+}
+
+.modal-close {
+  color: #aaa;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+
+.modal-close:hover {
+  color: #000;
+}
+
+.modal-window h1 {
+  font-size: 150%;
+  margin: 0 0 15px;
+  color: #09645f;
+}
+  #badge{
+    width: 60%;
+  height: auto;
+  }
+</style>
+      </div>
+      
+    </div>
